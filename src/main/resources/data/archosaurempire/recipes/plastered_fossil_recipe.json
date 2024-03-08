@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "archosaurempire:stone_dust"
+    },
+    "B": {
+      "item": "archosaurempire:fossil"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "item": "archosaurempire:plastered_fossil"
+  }
+}

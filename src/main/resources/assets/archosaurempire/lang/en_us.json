@@ -1,0 +1,38 @@
+{
+  "item.archosaurempire.fossil": "Fossil",
+  "item.archosaurempire.plastered_fossil": "Plastered Fossil",
+  "item.archosaurempire.stone_dust": "Stone Dust",
+  "item.archosaurempire.plaster": "Plaster",
+  "item.archosaurempire.baryonyx_skull": "Baryonyx Skull",
+  "item.archosaurempire.baryonyx_femur": "Baryonyx Femur",
+  "item.archosaurempire.velociraptor_skull": "Velociraptor Skull",
+  "item.archosaurempire.velociraptor_foot": "Velociraptor Foot",
+  "item.archosaurempire.leptoceratops_skull": "Leptoceratops Skull",
+  "item.archosaurempire.leptoceratops_tail": "Leptoceratops Tail",
+  "item.archosaurempire.dilong_jaw": "Dilong Jaw",
+  "item.archosaurempire.dilong_vertebrae": "Dilong Vertebrae",
+  "item.archosaurempire.oviraptor_jaw": "Oviraptor Jaw",
+  "item.archosaurempire.oviraptor_manus": "Oviraptor Manus",
+  "item.archosaurempire.pachycephalosaurus_skull": "Pachycephalosaurus Skull",
+  "item.archosaurempire.pachycephalosaurus_spikes": "Pachycephalosaurus Spikes",
+  "item.archosaurempire.eotyrannus_skull": "Eotyrannus Skull",
+  "item.archosaurempire.eotyrannus_femur": "Eotyrannus Femur",
+  "item.archosaurempire.edmontonia_skull": "Edmontonia Skull",
+  "item.archosaurempire.edmontonia_osteoderm": "Edmontonia Osteoderm",
+  "item.archosaurempire.pachyrhinosaurus_skull": "Pachyrhinosarus Skull",
+  "item.archosaurempire.pachyrhinosaurus_femur": "Pachyrhinosaurus Femur",
+  "item.archosaurempire.meraxes_skull": "Meraxes Skull",
+  "item.archosaurempire.meraxes_foot": "Meraxes Foot",
+  "item.archosaurempire.baryonyx_spawn_egg": "Baryonyx Egg",
+  "item.archosaurempire.baryonyx_dna": "Baryonyx Dna",
+  "item.archosaurempire.wires_item": "Wires",
+  "item.archosaurempire.extracter_item": "Portable Extracter",
+  "item.archosaurempire.pcb": "PCB",
+  "item.archosaurempire.syringe": "SYRINGE",
+
+  "block.archosaurempire.fossil_block": "Fossil Block",
+
+  "entity.minecraft.villager.archosaurempire.fossildealer": "Fossil Dealer",
+
+  "creativetab.archosaur_empire_tab": "Archosaur Empire"
+}

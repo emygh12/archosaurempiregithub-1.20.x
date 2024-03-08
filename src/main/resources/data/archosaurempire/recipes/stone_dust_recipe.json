@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    {
+      "item": "minecraft:stone_pickaxe"
+    }
+  ],
+  "result": {
+    "item": "archosaurempire:stone_dust",
+    "count": 4
+  }
+}

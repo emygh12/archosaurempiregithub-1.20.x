@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "archosaurempire:baryonyx_skull"
+    },
+    {
+      "item": "archosaurempire:extracter_item"
+    }
+  ],
+  "result": {
+    "item": "archosaurempire:baryonyx_dna",
+    "count": 1
+  }
+}

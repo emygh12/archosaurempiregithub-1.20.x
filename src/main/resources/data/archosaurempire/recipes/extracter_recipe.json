@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "archosaurempire:plaster"
+    },
+    {
+      "item": "archosaurempire:pcb"
+    },
+    {
+      "item": "archosaurempire:wires_item"
+    }
+  ],
+  "result": {
+    "item": "archosaurempire:extracter_item",
+    "count": 2
+  }
+}
